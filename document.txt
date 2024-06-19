@@ -1,0 +1,6 @@
+Create folder, either clientapp or frontendapp and go inside then,
+vite app ma jani, npm create vite@latest ./ (in same directory)
+then tya vitra kk vanxa, k ma project banauni ho tyo anusar kaam gardai jani 
+
+then "npm install "
+
