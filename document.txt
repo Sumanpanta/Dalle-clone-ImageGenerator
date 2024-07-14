@@ -4,3 +4,5 @@ then tya vitra kk vanxa, k ma project banauni ho tyo anusar kaam gardai jani
 
 then "npm install "
 
+now, take assets zip file, which have download, index, preview etc images.
+and create a folder called constants and create file called index.js
